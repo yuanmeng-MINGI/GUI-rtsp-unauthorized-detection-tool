@@ -17,5 +17,5 @@
 2. 点击导入目标加载目标列表
 3. 点击开始扫描启动漏洞检测
 4. 查看右侧结果面板获取检测结果
-<img width="1200" height="833" alt="Snipaste_2025-10-06_15-31-21" src="https://github.com/user-attachments/assets/c105cd57-a18b-473c-9db8-9c72b9a8a701" />
+<img width="1200" height="833" alt="Snipaste_2025-10-06_15-45-45" src="https://github.com/user-attachments/assets/8e3ba5da-6a17-4532-85f9-80cd1dbcea49" />
 <img width="797" height="448" alt="Snipaste_2025-10-06_15-38-44" src="https://github.com/user-attachments/assets/1272e792-a883-477f-82e5-98b8823f5f05" />
