@@ -20,3 +20,4 @@
 4. 查看右侧结果面板获取检测结果
 <img width="1200" height="833" alt="Snipaste_2025-10-06_15-45-45" src="https://github.com/user-attachments/assets/8e3ba5da-6a17-4532-85f9-80cd1dbcea49" />
 <img width="797" height="448" alt="Snipaste_2025-10-06_15-38-44" src="https://github.com/user-attachments/assets/1272e792-a883-477f-82e5-98b8823f5f05" />
+<img width="973" height="620" alt="Snipaste_2025-10-06_16-05-06" src="https://github.com/user-attachments/assets/662a73df-c080-46a2-a741-81ce4a8d8496" />
