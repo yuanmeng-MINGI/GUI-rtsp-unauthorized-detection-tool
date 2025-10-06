@@ -11,7 +11,7 @@
 仅对您拥有合法权限的系统进行测试
 不得用于非法入侵或攻击他人系统
 使用者需对自身行为承担全部法律责任
-
+项目地址：https://github.com/yuanmeng-MINGI/GUI-rtsp-unauthorized-detection-tool
 使用说明:
 1. 准备目标IP列表文件
 2. 点击导入目标加载目标列表
